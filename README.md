@@ -1,5 +1,7 @@
 # Swarmpit agent
 
+## Merged to main repo.
+
 Swarmpit docker agent.
 
 Fork for multi arch build.
